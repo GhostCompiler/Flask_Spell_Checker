@@ -18,7 +18,7 @@ Ensure you have the following installed:
 
 1. **Clone the Repository**
 ```bash
-git clone https://github.com/yourusername/Flask_Spell_Checker.git
+git clone https://github.com/GhostCompiler/Flask_Spell_Checker.git
 cd Flask_Spell_Checker
 ```
 
